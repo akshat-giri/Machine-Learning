@@ -1,2 +1,2 @@
-# Data-Science-Projects
-It consist of the Projects I have done
+# Machine Learning Projects
+Comprise of all the projects I have Done
